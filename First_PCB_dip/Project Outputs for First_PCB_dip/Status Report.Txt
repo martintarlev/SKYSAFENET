@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [First_PCB_dip.PrjPcb]
+   Generated File[First_PCB_dip_Legend_Top.gbr]
+   Generated File[First_PCB_dip_Paste_Top.gbr]
+   Generated File[First_PCB_dip_Soldermask_Top.gbr]
+   Generated File[First_PCB_dip_Copper_Signal_Top.gbr]
+   Generated File[First_PCB_dip_Copper_Signal_Bot.gbr]
+   Generated File[First_PCB_dip_Soldermask_Bot.gbr]
+   Generated File[First_PCB_dip_Paste_Bot.gbr]
+   Generated File[First_PCB_dip_Legend_Bot.gbr]
+   Generated File[First_PCB_dip_Drawing_1.gbr]
+   Generated File[First_PCB_dip_Drillmap_1.gbr]
+   Generated File[First_PCB_dip_Profile.gbr]
+   Generated File[First_PCB_dip.EXTREP]
+   Generated File[First_PCB_dip.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 19:49:46 On 1.4.2024 ã.

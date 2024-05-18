@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C2 Old Footprint=CON New Footprint=RAD-0.3
+Change Component Footprint: Designator=C4 Old Footprint=CON New Footprint=RAD-0.3
+Change Component Footprint: Designator=C1 Old Footprint=FP-RAD-TH-D_5_0_5-L_11_1-MFG New Footprint=RAD-0.3
+Change Component Footprint: Designator=C3 Old Footprint=FP-RAD-TH-D_5_0_5-L_11_1-MFG New Footprint=RAD-0.3
+Change Component Comment: Designator=C1 Old Comment=10uF New Comment=Cap
+Change Component Comment: Designator=C3 Old Comment=10uF New Comment=Cap

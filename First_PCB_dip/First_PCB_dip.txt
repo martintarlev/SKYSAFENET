@@ -1,0 +1,177 @@
+Board Information Report
+Filename     : D:\Diplom\First_PCB_dip\First_PCB_dip.PcbDoc
+Date         : 9.2.2024 ã.
+Time         : 22:59:27
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4133.858milsx2716.535mils
+    Components on board, 24
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 34
+    Connections routed, 34
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 12, 0, 79, 0, 0, 0, 0
+    Bottom Layer, 0, 0, 0, 64, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 1
+    Mechanical 13, 2, 0, 0, 15, 0, 0, 0, 1
+    Mechanical 15, 0, 0, 0, 14, 0, 0, 0, 0
+    Multi-Layer, 0, 95, 16, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 6, 0, 0, 186, 55, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 16
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 0,53, 341,817, 5%
+    Bottom Layer, 0,501, 323,141, 4%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 12, 0
+    28mils, 0, 16
+    30mils, 8, 0
+    31.496mils, 2, 0
+    33.465mils, 2, 0
+    35.433mils, 73, 0
+    43.307mils, 2, 0
+    80mils, 8, 0
+count : 8
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -40mils, 8
+    19.685mils, 2
+    21.654mils, 2
+    22mils, 16
+    23.622mils, 73
+    30mils, 8
+    31.496mils, 2
+count : 7
+
+Mid Layer Annular Ring Size, Count
+    -40mils, 8
+    19.685mils, 2
+    21.654mils, 2
+    22mils, 16
+    23.622mils, 73
+    30mils, 8
+    31.496mils, 2
+count : 7
+
+Bottom Layer Annular Ring Size, Count
+    -40mils, 8
+    19.685mils, 2
+    21.654mils, 2
+    22mils, 16
+    23.622mils, 73
+    30mils, 8
+    31.496mils, 2
+count : 7
+
+Pad Solder Mask, Count
+    4mils, 107
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 107
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 107
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 107
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 107
+count : 1
+
+Pad Relief Entries, Count
+    4, 107
+count : 1
+
+Via Solder Mask, Count
+    4mils, 16
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 16
+count : 1
+
+Track Width, Count
+    1.969mils, 12
+    3.937mils, 6
+    5mils, 27
+    7.874mils, 41
+    10mils, 172
+    20mils, 2
+    30mils, 98
+count : 7
+
+Arc Line Width, Count
+    5mils, 1
+    7.874mils, 4
+    9.843mils, 1
+    10mils, 2
+count : 4
+
+Arc Radius, Count
+    3.937mils, 4
+    4.921mils, 1
+    57.087mils, 1
+    98.425mils, 2
+count : 4
+
+Arc Degrees, Count
+    180, 1
+    360, 7
+count : 2
+
+Text Height, Count
+    60mils, 55
+count : 1
+
+Text Width, Count
+    10mils, 55
+count : 1
+
+Net Track Width, Count
+    10mils, 11
+count : 1
+
+Net Via Size, Count
+    50mils, 11
+count : 1
